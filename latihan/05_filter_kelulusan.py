@@ -1,4 +1,4 @@
-print("\n--- D. Menghitung Kelulusan (Seleksi & Pencacahan) ---")
+print("Menghitung Kelulusan")
 # Data nilai untuk pengecekan kelulusan (standar KKM misal >= 60)
 nilai_ujian = [75, 80, 55, 90, 60, 48]
 jumlah_lulus = 0
